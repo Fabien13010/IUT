@@ -15,7 +15,7 @@ Voici par exemple une liste d'activités que nous avons mis en place pour cet é
 | Vendredi    | Hôtel, Karting | 
 | Samedi     | Safari, Parachute     | 
 | Dimanche | Golf      | 
-| Ludni     | Plongée sous marine, Jet-sKi |
+| Ludni     | Plongée sous marine, Jet-ski |
 
 
 ## Nous contacter
